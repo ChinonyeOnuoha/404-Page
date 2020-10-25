@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Montserrat:wght@600&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+h3{
+    position: absolute;
+    font-family: inconsolata;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    color: #333333;
+    height: 25px;
+    width: 133px;
+    left: 77px;
+    top: 40px;
+}
+
+
+@media (min-width: 300px) and (max-width: 1000px){
+    h3{
+        font-size: 20px;
+        line-height: 25px;
+        letter-spacing: -0.08em;
+        color: #333333;
+        height: 25px;
+        width: 133px;
+        left: 24px;
+        top: 20px;
+    }
+
+}
+
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+div img{
+    position: absolute;
+    width: 539.22px;
+    height: 414.25px;
+    left: 5.35%;
+    right: 57.21%;
+    top: 15%;
+    bottom: 37.11%;
+}
+
+
+@media (min-width: 300px) and (max-width: 1000px){
+    div img{
+        width: 286px;
+        height: 238px;
+        position: absolute;
+        left: 11.73%;
+        right: 11.78%;
+        top: 11.49%;
+        bottom: 63.44%;
+    }
+
+}
+
+.title h1{
+    position: absolute;
+    font-family: space Mono;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 65px;
+    letter-spacing: -0.035em;
+    width: 586px;
+    height: 190px;
+    top: 140px;
+    left: 735px;
+    color: #333333;
+}
+
+
+@media (min-width: 300px) and (max-width: 1000px){
+    .title h1{
+        position: absolute;
+        width: 350px;
+        height: 140px;
+        left: 22px;
+        top: 370px;
+        font-size: 40px;
+        line-height: 55px;
+        letter-spacing: -0.035em;
+        /* text-align: center; */
+        padding-right: 0.23rem;
+    }
+
+}
+
+
+.title p{
+    position: absolute;
+    width: 381px;
+    height: 100px;
+    left: 736px;
+    top: 305px;
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: -0.035em;
+    color: #4f4f4f;
+}
+
+
+@media (min-width: 300px) and (max-width: 1000px) {
+    .title p{
+        position: absolute;
+        width: 328px;
+        height: 81px;
+        left: 23px;
+        top: 502px;
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: -0.035em;
+        color: #4F4F4F;
+    }
+}
+
+.title button{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    left: 740px;
+    top: 445px;
+    background: #333333;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+@media (min-width: 300px) and (max-width: 1000px) {
+    .title button{
+        position: absolute;
+        width: 180px;
+        height: 45px;
+        left: 24px;
+        top: 613px;
+
+    }
+}
+
+
+footer{
+    position: absolute;
+    width: 300px;
+    height: 17px;
+    left: 607px;
+    top: 700px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+}
+
+@media (min-width: 300px) and (max-width: 1000px){
+    footer{
+        position: absolute;
+        width: 300px;
+        height: 17px;
+        left: 70px;
+        top: 810px;
+        font-size: 13px;
+
+    }
+}
