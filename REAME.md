@@ -33,10 +33,10 @@
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
-
+<!-- 
 ## Overview
 
-![screenshot](C:\Users\ONY\Desktop\404_page\imgs\404 Not Found - Google Chrome 25_10_2020 4_46_29 PM.png)
+![screenshot](C:\Users\ONY\Desktop\404_page\imgs\404 Not Found - Google Chrome 25_10_2020 4_46_29 PM.png) -->
 
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -71,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://mariaconuoha.github.io/404-Page/)
-- GitHub [@your-username](https://github.com/MariaConuoha)
-- Twitter [@your-twitter](https://twitter.com/SenoritaNonye)
+<!-- - Website [your-website.com](https://mariaconuoha.github.io/404-Page/) -->
+- GitHub [@MariaConuoha](https://github.com/MariaConuoha)
+- Twitter [@SenoritaNonye](https://twitter.com/SenoritaNonye)
