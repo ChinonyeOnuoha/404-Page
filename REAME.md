@@ -25,9 +25,9 @@
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
-
+<!-- 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  - [Built With](#built-with) -->
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,15 +36,15 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](C:\Users\ONY\Desktop\404_page\imgs\404 Not Found - Google Chrome 25_10_2020 4_46_29 PM.png)
 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
+- Your wisdom? :) -->
 
 <!-- ### Built With -->
 
@@ -71,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{mariaconuoha.github.io/404-Page/})
-- GitHub [@your-username](https://{github.com/MariaConuoha})
-- Twitter [@your-twitter](https://{twitter.com/SenoritaNonye})
+- Website [your-website.com](https://mariaconuoha.github.io/404-Page/)
+- GitHub [@your-username](https://github.com/MariaConuoha)
+- Twitter [@your-twitter](https://twitter.com/SenoritaNonye)
